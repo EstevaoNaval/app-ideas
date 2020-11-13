@@ -62,6 +62,7 @@ const people = [
 ```
 
 ## Example projects
+[Summary pane with HTML5, CSS and js](https://estevaonaval.github.io/Causa-Efeito/web/)
 
 Checkout the interaction between the Navigation items on the left hand side
 of the page and the main body of the page on the [Javascript MDN site](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
